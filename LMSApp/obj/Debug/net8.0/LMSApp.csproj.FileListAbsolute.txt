@@ -1,0 +1,14 @@
+/Users/hannahhousand/COP4870/please/LMSApp/bin/Debug/net8.0/LMSApp
+/Users/hannahhousand/COP4870/please/LMSApp/bin/Debug/net8.0/LMSApp.deps.json
+/Users/hannahhousand/COP4870/please/LMSApp/bin/Debug/net8.0/LMSApp.runtimeconfig.json
+/Users/hannahhousand/COP4870/please/LMSApp/bin/Debug/net8.0/LMSApp.dll
+/Users/hannahhousand/COP4870/please/LMSApp/bin/Debug/net8.0/LMSApp.pdb
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/LMSApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/LMSApp.AssemblyInfoInputs.cache
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/LMSApp.AssemblyInfo.cs
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/LMSApp.csproj.CoreCompileInputs.cache
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/LMSApp.dll
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/refint/LMSApp.dll
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/LMSApp.pdb
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/LMSApp.genruntimeconfig.cache
+/Users/hannahhousand/COP4870/please/LMSApp/obj/Debug/net8.0/ref/LMSApp.dll

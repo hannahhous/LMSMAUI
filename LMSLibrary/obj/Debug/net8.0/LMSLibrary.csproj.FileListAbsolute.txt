@@ -1,0 +1,11 @@
+/Users/hannahhousand/COP4870/please/LMSLibrary/bin/Debug/net8.0/LMSLibrary.deps.json
+/Users/hannahhousand/COP4870/please/LMSLibrary/bin/Debug/net8.0/LMSLibrary.dll
+/Users/hannahhousand/COP4870/please/LMSLibrary/bin/Debug/net8.0/LMSLibrary.pdb
+/Users/hannahhousand/COP4870/please/LMSLibrary/obj/Debug/net8.0/LMSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannahhousand/COP4870/please/LMSLibrary/obj/Debug/net8.0/LMSLibrary.AssemblyInfoInputs.cache
+/Users/hannahhousand/COP4870/please/LMSLibrary/obj/Debug/net8.0/LMSLibrary.AssemblyInfo.cs
+/Users/hannahhousand/COP4870/please/LMSLibrary/obj/Debug/net8.0/LMSLibrary.csproj.CoreCompileInputs.cache
+/Users/hannahhousand/COP4870/please/LMSLibrary/obj/Debug/net8.0/LMSLibrary.dll
+/Users/hannahhousand/COP4870/please/LMSLibrary/obj/Debug/net8.0/refint/LMSLibrary.dll
+/Users/hannahhousand/COP4870/please/LMSLibrary/obj/Debug/net8.0/LMSLibrary.pdb
+/Users/hannahhousand/COP4870/please/LMSLibrary/obj/Debug/net8.0/ref/LMSLibrary.dll
